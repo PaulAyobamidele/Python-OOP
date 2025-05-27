@@ -19,3 +19,6 @@ if __name__ == "__main__":
 
     person1.showInfo()
     person2.showInfo()
+
+    print(vars((person1)))
+    print(vars((person2)))
