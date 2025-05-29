@@ -137,8 +137,3 @@ except SomeError:
 
 Feel free to contribute improvements, add examples, or submit issues!
 🛠️ Happy coding!
-
-```
-
-Just paste this into your `README.md` and push it to GitHub! The formatting and emojis will display nicely on your repo page.
-```
