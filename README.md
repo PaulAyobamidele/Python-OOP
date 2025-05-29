@@ -135,5 +135,12 @@ except SomeError:
 
 ---
 
+## How to create your own Exceptions
+
+```python
+class <CustomExceptionName>(Exception):
+    pass
+```
+
 Feel free to contribute improvements, add examples, or submit issues!
 🛠️ Happy coding!
