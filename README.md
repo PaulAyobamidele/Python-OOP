@@ -59,3 +59,11 @@ Two Mental Models for Objects
     What Self means basically is that.
 
     Self is the placeholder, that is set to represent the original object in the call.
+
+#### WHAT IS AN OBJECT MANAGER OBJECT
+
+An object that maintains a list or dictionary of managed object (typically of a single class) and calls methods of those objects.
+
+### COMPOSITION
+
+A logical structure in which one object manages one or more other objects
